@@ -1,0 +1,186 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/hero_img.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/hero_tel_img.png"
+    }
+  ],
+  "advertising": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/reklama_img1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/reklama_img2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/resklama_img3.png"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/reklama_img4.png"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/reklama_img5.png"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers3.png"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers4.png"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers5.png"
+    }
+  ],
+  "center": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center3.png"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center4.png"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center5.png"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center6.png"
+    }
+  ],
+  "centerPage": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img1.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img2.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img3.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img3.png"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img4.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img4.png"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img5.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img5.png"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img6.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img6.png"
+    },
+    {
+      "id": 7,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img7.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img5.png"
+    },
+    {
+      "id": 8,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img8.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img1.png"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_img9.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/center_page_tel_img1.png"
+    }
+  ],
+  "teachersPage": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img1.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img2.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img3.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img3.png"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img4.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img4.png"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img5.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img5.png"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img6.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img6.png"
+    },
+    {
+      "id": 7,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img7.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img7.png"
+    },
+    {
+      "id": 8,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img8.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img8.png"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img9.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img9.png"
+    },
+    {
+      "id": 10,
+      "img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_img10.png",
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img10.png"
+    },
+    {
+      "id": 11,
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img11.png"
+    },
+    {
+      "id": 12,
+      "mobile_img": "https://raw.githubusercontent.com/yuldashev7/melon_imgs/refs/heads/main/teachers_page_tel_img12.png"
+    }
+  ]
+}
